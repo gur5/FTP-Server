@@ -1,8 +1,8 @@
 # FTP-Server
 
 ```
- configure FTP---
-            for server--
+ configure FTP for RHEL 9 ---
+       for server--
             sudo dnf install vsftpd -y
             
             sudo vi /etc/vsftpd/vsftpd.conf
