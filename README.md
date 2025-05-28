@@ -1,5 +1,5 @@
 # FTP-Server
-
+##  configure FTP for RHEL 9 ---
 ```
  configure FTP for RHEL 9 ---
        for server--
@@ -31,5 +31,11 @@
           ftp <server-ip>
           ftp> put file.txt
           ftp> mput file1 file2 (for multiple files)
+
+```
+ configure FTP for Ubuntu ---
+
+```
+
 
 ```
