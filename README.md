@@ -1,9 +1,11 @@
 # FTP-Server
 ---
+ 
+##  Configure FTP for RHEL 9 ---
+
 <details>
 <summary>View</summary>
  
-##  Configure FTP for RHEL 9 ---
 ```
  configure FTP for RHEL 9 ---
        for server--
@@ -43,6 +45,9 @@
 
 ## Configure FTP for Ubuntu ---
 
+<details>
+<summary>View</summary>
+ 
 ```
 sudo apt update
 sudo apt install vsftpd
@@ -93,3 +98,4 @@ ftp> pwd
 ftp> lcd /path/to/local/files  # Local change directory
 ftp> !pwd 
 ```
+</details>
