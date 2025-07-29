@@ -1,5 +1,8 @@
 # FTP-Server
 ---
+<details>
+<summary>View</summary>
+ 
 ##  Configure FTP for RHEL 9 ---
 ```
  configure FTP for RHEL 9 ---
@@ -34,8 +37,11 @@
           ftp> mput file1 file2 (for multiple files)
 
 ```
+</details>
+
 ---
- ## Configure FTP for Ubuntu ---
+
+## Configure FTP for Ubuntu ---
 
 ```
 sudo apt update
